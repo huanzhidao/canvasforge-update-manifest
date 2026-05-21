@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "百度网盘分享：彦祖画布。提取码：yzhb",
-  "releaseDate": "2026-05-20"
+  "notes": "画布文件导入新增进度显示，拖拽或粘贴多张图片后会按当前图片墙设置自动整理本次新增图片。提取码：yzhb",
+  "releaseDate": "2026-05-22"
 }
