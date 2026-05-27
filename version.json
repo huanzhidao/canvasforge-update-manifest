@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "画布文件导入新增进度显示，拖拽或粘贴多张图片后会按当前图片墙设置自动整理本次新增图片。提取码：yzhb",
-  "releaseDate": "2026-05-22"
+  "notes": "稳定版 1.6.4 更新：包含近期界面、画布和稳定性改进。提取码：yzhb",
+  "releaseDate": "2026-05-27"
 }
