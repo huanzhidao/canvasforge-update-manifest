@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
+  "version": "1.6.10",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "稳定版 1.6.9 更新：发布开发版候选代码，包含画布界面、MCP、外部应用停靠和稳定性改进。提取码：yzhb",
-  "releaseDate": "2026-06-08"
+  "notes": "稳定版 1.6.10 更新：发布开发版候选代码，包含 GPT Image 2 新旧 2K/4K 路由、画布界面与外部联动稳定性改进。提取码：yzhb",
+  "releaseDate": "2026-06-11"
 }
