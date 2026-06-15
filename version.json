@@ -1,6 +1,6 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.13",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "稳定版 1.6.12 更新：默认 Comfly 图片接口域名切换到 ai.comfly.org，并补充 Comfly 对话模型审计记录。提取码：yzhb",
-  "releaseDate": "2026-06-12"
+  "notes": "稳定版 1.6.13 更新：图片生成V2参考图支持鼠标拖动调整顺序，生成时会按调整后的参考图顺序传入；优化运行中多图生成占位显示，并改进画布代理模型选择识别。提取码：yzhb",
+  "releaseDate": "2026-06-15"
 }
