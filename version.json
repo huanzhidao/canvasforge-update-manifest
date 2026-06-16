@@ -1,6 +1,6 @@
 {
-  "version": "1.6.13",
+  "version": "1.6.14",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "稳定版 1.6.13 更新：图片生成V2参考图支持鼠标拖动调整顺序，生成时会按调整后的参考图顺序传入；优化运行中多图生成占位显示，并改进画布代理模型选择识别。提取码：yzhb",
-  "releaseDate": "2026-06-15"
+  "notes": "稳定版 1.6.14 更新：修复设置弹窗中选择下拉选项时设置面板意外关闭的问题。提取码：yzhb",
+  "releaseDate": "2026-06-17"
 }
