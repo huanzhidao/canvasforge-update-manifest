@@ -1,6 +1,6 @@
 {
-  "version": "1.6.14",
+  "version": "1.6.15",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "稳定版 1.6.14 更新：修复设置弹窗中选择下拉选项时设置面板意外关闭的问题。提取码：yzhb",
+  "notes": "稳定版 1.6.15 更新：修复图像生成 v2 画面适配问题，并优化画布图片预览，优先显示未裁切画面。提取码：yzhb",
   "releaseDate": "2026-06-17"
 }
