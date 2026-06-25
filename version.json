@@ -1,6 +1,6 @@
 {
   "version": "1.6.17",
-  "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "稳定版 1.6.17 更新：新增 Magnific Image Generator 上游参考预览，优化选中态参数菜单层级和暗色主题显示。提取码：yzhb",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.17.exe",
+  "notes": "CanvasForge 1.6.17 direct installer. This build includes the new automatic update flow.",
   "releaseDate": "2026-06-25"
 }
