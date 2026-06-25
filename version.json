@@ -1,6 +1,6 @@
 {
-  "version": "1.6.16",
+  "version": "1.6.17",
   "downloadUrl": "https://pan.baidu.com/s/1LkWPD8ih0vbbn9BGdDuN3Q?pwd=yzhb",
-  "notes": "稳定版 1.6.16 更新：优化返回图片归档，确保画布生成结果能正确落盘并进入画布图片素材。提取码：yzhb",
-  "releaseDate": "2026-06-18"
+  "notes": "稳定版 1.6.17 更新：新增 Magnific Image Generator 上游参考预览，优化选中态参数菜单层级和暗色主题显示。提取码：yzhb",
+  "releaseDate": "2026-06-25"
 }
