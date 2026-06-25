@@ -1,6 +1,6 @@
 {
-  "version": "1.6.17",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.17.exe",
-  "notes": "CanvasForge 1.6.17 direct installer. This build includes the new automatic update flow.",
-  "releaseDate": "2026-06-25"
+  "version": "1.6.18",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.18.exe",
+  "notes": "CanvasForge 1.6.18 direct installer. This build enables the automatic update flow.",
+  "releaseDate": "2026-06-26"
 }
