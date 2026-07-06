@@ -1,6 +1,6 @@
 {
     "version":  "1.6.23",
     "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.23.exe",
-    "notes":  "- 外发包增加保守混淆和完整性校验\n- 优化发布保护流程，降低拆包和篡改风险\n- 保持稳定版数据不变，只更新程序代码",
+    "notes":  "- 优化画布打开和编辑时的稳定性\n- 提升画布内容加载与保存体验\n- 改进画布外发使用过程中的可靠性",
     "releaseDate":  "2026-07-06"
 }
