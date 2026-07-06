@@ -1,6 +1,6 @@
 {
     "version":  "1.6.23",
     "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.23.exe",
-    "notes":  "- 图片 API 设置新增 APIYi 接口，支持 GPT Image 2、Nano Banana Pro 和 Nano Banana 2 的画布生图/图生图调用。\n- 图片节点和生图 V2 结果图右键菜单新增“导入 Photoshop”。\n- 设置页新增“使用说明”，并优化若干画布节点的输入图片顺序与显示逻辑。",
-    "releaseDate":  "2026-07-03"
+    "notes":  "- 外发包增加保守混淆和完整性校验\n- 优化发布保护流程，降低拆包和篡改风险\n- 保持稳定版数据不变，只更新程序代码",
+    "releaseDate":  "2026-07-06"
 }
