@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.24",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.24.exe",
-    "notes":  "- 修复画布图片节点放大后显示为空和无法传入下游的问题\n- 修复图片对比模块识别不到已连接图片的问题\n- 优化本地图片和快捷方式导入流程",
+    "version":  "1.6.25",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.25.exe",
+    "notes":  "- 修复 Magnific 图像生成模块参数入口冲突，移除节点内重复数量控件\n- 优化图像生成模型、比例和分辨率入口，并保留图片生成 V2 的数量设置\n- 优化画布图片替换和媒体传递稳定性",
     "releaseDate":  "2026-07-09"
 }
