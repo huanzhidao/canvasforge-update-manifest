@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.25",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.25.exe",
-    "notes":  "- 修复 Magnific 图像生成模块参数入口冲突，移除节点内重复数量控件\n- 优化图像生成模型、比例和分辨率入口，并保留图片生成 V2 的数量设置\n- 优化画布图片替换和媒体传递稳定性",
+    "version":  "1.6.26",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.26.exe",
+    "notes":  "- 修复图片生成 V2 参考图重复显示，避免同一批参考图在输入区被重复计数\n- 统一上游连线输入和本地参考图的去重逻辑\n- 同步优化 Magnific 变体参考图预览",
     "releaseDate":  "2026-07-09"
 }
