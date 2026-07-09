@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.23",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.23.exe",
-    "notes":  "- 优化画布打开和编辑时的稳定性\n- 提升画布内容加载与保存体验\n- 改进画布外发使用过程中的可靠性",
-    "releaseDate":  "2026-07-06"
+    "version":  "1.6.24",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.24.exe",
+    "notes":  "- 修复画布图片节点放大后显示为空和无法传入下游的问题\n- 修复图片对比模块识别不到已连接图片的问题\n- 优化本地图片和快捷方式导入流程",
+    "releaseDate":  "2026-07-09"
 }
