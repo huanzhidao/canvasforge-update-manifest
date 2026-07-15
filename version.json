@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.26",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.26.exe",
-    "notes":  "- 图片模块外框会按原图比例自动适配\n- 参数预设可统一控制下游生图与编辑设置\n- 完整保留多方案、九宫格等生图提示要求",
-    "releaseDate":  "2026-07-11"
+    "version":  "1.6.27",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.27.exe",
+    "notes":  "- 生图模块底部参数条直接显示模型、比例和分辨率，切换更直观。\n- 优化浅色画布的开场引导与深色主题动效。\n- 修复上游参考图默认连接顺序，AI 分析和生图结果更稳定。",
+    "releaseDate":  "2026-07-15"
 }
