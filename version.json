@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.27",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.27.exe",
-    "notes":  "- 生图模块底部参数条直接显示模型、比例和分辨率，切换更直观。\n- 优化浅色画布的开场引导与深色主题动效。\n- 修复上游参考图默认连接顺序，AI 分析和生图结果更稳定。",
-    "releaseDate":  "2026-07-15"
+    "version":  "1.6.28",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.28.exe",
+    "notes":  "- 修复重复打开稳定版时启动多个后端和画布窗口的问题；再次启动会恢复并聚焦已有窗口。",
+    "releaseDate":  "2026-07-17"
 }
