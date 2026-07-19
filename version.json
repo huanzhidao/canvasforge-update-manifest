@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.29",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.29.exe",
-    "notes":  "修复普通图片生成 V2 使用大尺寸参考图批量生成时的重复压缩、重复编码和重复保存卡顿；图片生成实际请求最多同时运行 3 个，并补充 Comfly 请求超时保护。",
+    "version":  "1.6.30",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.30.exe",
+    "notes":  "撤销 1.6.29 中未经配置加入的全局 3 并发限制，恢复图片生成 V2 数量任务和并行模块原有并发；保留大图预处理复用、Base64 复用、批次单次保存和 Comfly 超时保护。",
     "releaseDate":  "2026-07-19"
 }
