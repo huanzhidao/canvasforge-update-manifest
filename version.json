@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.28",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.28.exe",
-    "notes":  "- 修复重复打开稳定版时启动多个后端和画布窗口的问题；再次启动会恢复并聚焦已有窗口。",
-    "releaseDate":  "2026-07-17"
+    "version":  "1.6.29",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.29.exe",
+    "notes":  "修复普通图片生成 V2 使用大尺寸参考图批量生成时的重复压缩、重复编码和重复保存卡顿；图片生成实际请求最多同时运行 3 个，并补充 Comfly 请求超时保护。",
+    "releaseDate":  "2026-07-19"
 }
