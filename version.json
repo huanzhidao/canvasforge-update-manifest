@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.31",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.31.exe",
-    "notes":  "优化大图多图生成：同一引用图只预处理和归档一次，缩略图只完整解码一次；并行节点复用画布关系，工作流统一保存，V2 历史批量写入；不限制实际生图并发。",
-    "releaseDate":  "2026-07-19"
+    "version":  "1.6.32",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.32.exe",
+    "notes":  "新增供应商模型管理与独立密钥路由，支持隐藏解锁 Lumia 与 APIYi；优化兼容接口及 AP 默认模型名称；修复 V2 生图错误展示和多图结果实时传递。",
+    "releaseDate":  "2026-07-25"
 }
