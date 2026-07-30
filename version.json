@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.32",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.32.exe",
-    "notes":  "新增供应商模型管理与独立密钥路由，支持隐藏解锁 Lumia 与 APIYi；优化兼容接口及 AP 默认模型名称；修复 V2 生图错误展示和多图结果实时传递。",
-    "releaseDate":  "2026-07-25"
+    "version":  "1.7.0",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.0.exe",
+    "notes":  "新增交互式只读画布分享，可查看模块、连线和详情并下载导入本地画布；分享内容自动移除敏感信息并支持有效期与提前撤销；优化 Canvas MCP 任务状态，并新增快捷创建列表紧凑/详细视图。",
+    "releaseDate":  "2026-07-30"
 }
