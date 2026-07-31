@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.32",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.32.exe",
-    "notes":  "回退到已验证的稳定版本；1.7.1 暂停分发。",
-    "releaseDate":  "2026-07-25"
+    "version":  "1.7.2",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.2.exe",
+    "notes":  "修复 Windows 安装包运行依赖缺失导致的启动报错，并增加发布前运行时完整性校验。",
+    "releaseDate":  "2026-07-31"
 }
