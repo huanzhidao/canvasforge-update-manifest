@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.1",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.1.exe",
-    "notes":  "修复大画布分享时节点生成面板批量展开、遮挡分享弹窗的问题；优化 102 模块等大画布分享，降低本机内存峰值并提升完整工作区创建稳定性。",
-    "releaseDate":  "2026-07-30"
+    "version":  "1.6.32",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.6.32.exe",
+    "notes":  "回退到已验证的稳定版本；1.7.1 暂停分发。",
+    "releaseDate":  "2026-07-25"
 }
