@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.2",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.2.exe",
-    "notes":  "修复 Windows 安装包运行依赖缺失导致的启动报错，并增加发布前运行时完整性校验。",
-    "releaseDate":  "2026-07-31"
+    "version":  "1.7.3",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.3.exe",
+    "notes":  "MCP 联动升级并新增权限中心、批量事务编辑与指定节点运行；新增 OCR 智能改字；Comfly 新增 Midjourney V7 Turbo 与 FLUX.2；优化视频生成与画布交互。",
+    "releaseDate":  "2026-08-04"
 }
