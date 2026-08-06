@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.3",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.3.exe",
-    "notes":  "MCP 联动升级并新增权限中心、批量事务编辑与指定节点运行；新增 OCR 智能改字；Comfly 新增 Midjourney V7 Turbo 与 FLUX.2；优化视频生成与画布交互。",
-    "releaseDate":  "2026-08-04"
+  "version": "1.7.4",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.4.exe",
+  "notes": "修复异常画布数据可能导致白屏的问题；完善工作流失败重试与 AI 分析输出；优化视频生成任务、参考素材上传和重启恢复；改进画布引用、MCP/Codex 联动设置及本地存储迁移保护。",
+  "releaseDate": "2026-08-06"
 }
