@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.4.exe",
-  "notes": "修复异常画布数据可能导致白屏的问题；完善工作流失败重试与 AI 分析输出；优化视频生成任务、参考素材上传和重启恢复；改进画布引用、MCP/Codex 联动设置及本地存储迁移保护。",
-  "releaseDate": "2026-08-06"
+  "version": "1.7.5",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.5.exe",
+  "notes": "新增图片扩图与文本/AI 分析专注窗口；优化工作流智能续跑和统一模型；强化 MCP/Codex 联动、异常恢复与危险操作授权；提升 Comfly 生图、AI 分析、视频任务及画布整理稳定性。",
+  "releaseDate": "2026-08-11"
 }
