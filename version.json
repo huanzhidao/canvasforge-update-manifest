@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.8.exe",
-  "notes": "修复自动更新时提示“CanvasForge 无法关闭”的问题；更新前会主动退出 Agent 与 MCP 桥接器，并兼容 WorkBuddy、Codex 在安装期间自动重新拉起旧桥接器。",
+  "version": "1.7.9",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.9.exe",
+  "notes": "修复 Codex/WorkBuddy 以管理员权限运行时，自动更新仍提示 CanvasForge 无法关闭的问题；安装器在确有权限差时仅提升专用后台守卫，并在安装期间持续处理旧桥接器重拉起，普通 CanvasForge 进程不受影响。",
   "releaseDate": "2026-08-24"
 }
