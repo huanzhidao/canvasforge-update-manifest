@@ -1,6 +1,6 @@
 {
-  "version": "1.7.7",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.7.exe",
-  "notes": "新增内置 Codex Agent，可在问问 AI 中直接读取、编辑和运行画布，支持流式进度、会话续接/分支、停止任务以及模型与思考强度选择；优化扩图框选、场景连续性与 OCR 文字编辑入口；强化图片归档和多图结果保存，修复 Comfly 自定义上游地址、Agent 会话恢复与工具审批问题。",
+  "version": "1.7.8",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.8.exe",
+  "notes": "修复自动更新时提示“CanvasForge 无法关闭”的问题；更新前会主动退出 Agent 与 MCP 桥接器，并兼容 WorkBuddy、Codex 在安装期间自动重新拉起旧桥接器。",
   "releaseDate": "2026-08-24"
 }
