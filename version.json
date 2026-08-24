@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.6.exe",
-  "notes": "新增画布管理排序、收藏和可调大小弹窗；强化图片归档与保存保护、MCP 批量运行数量和重复工作流防护；优化画布恢复、视频节点运行与工作流串行执行。",
-  "releaseDate": "2026-08-19"
+  "version": "1.7.7",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.7.exe",
+  "notes": "新增内置 Codex Agent，可在问问 AI 中直接读取、编辑和运行画布，支持流式进度、会话续接/分支、停止任务以及模型与思考强度选择；优化扩图框选、场景连续性与 OCR 文字编辑入口；强化图片归档和多图结果保存，修复 Comfly 自定义上游地址、Agent 会话恢复与工具审批问题。",
+  "releaseDate": "2026-08-24"
 }
