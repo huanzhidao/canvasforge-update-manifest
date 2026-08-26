@@ -1,6 +1,6 @@
 {
-  "version": "1.7.9",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.7.9.exe",
-  "notes": "修复 Codex/WorkBuddy 以管理员权限运行时，自动更新仍提示 CanvasForge 无法关闭的问题；安装器在确有权限差时仅提升专用后台守卫，并在安装期间持续处理旧桥接器重拉起，普通 CanvasForge 进程不受影响。",
-  "releaseDate": "2026-08-24"
+  "version": "1.8.0",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.0.exe",
+  "notes": "修复画布保存时残留旧图片可能阻塞保存的问题；发布 1.8.0 版本，用于验证多安装路径场景下的更新结果。",
+  "releaseDate": "2026-08-26"
 }
