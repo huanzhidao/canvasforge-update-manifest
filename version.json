@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.0.exe",
-  "notes": "修复画布保存时残留旧图片可能阻塞保存的问题；发布 1.8.0 版本，用于验证多安装路径场景下的更新结果。",
-  "releaseDate": "2026-08-26"
+    "version":  "1.8.1",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.1.exe",
+    "notes":  "修复画布本地图片传给 Codex 时被误判为远程地址的问题，支持直接识图。\n统一问问 AI 三种模式的输入框圆角、位置和控件样式，并移除多余的 MCP 备注。\n强化 Codex Agent 任务验收与视觉分组操作，改善 Comfly 错误提示和旧图片保存恢复。",
+    "releaseDate":  "2026-08-27"
 }
