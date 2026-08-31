@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.1",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.1.exe",
-    "notes":  "修复画布本地图片传给 Codex 时被误判为远程地址的问题，支持直接识图。\n统一问问 AI 三种模式的输入框圆角、位置和控件样式，并移除多余的 MCP 备注。\n强化 Codex Agent 任务验收与视觉分组操作，改善 Comfly 错误提示和旧图片保存恢复。",
-    "releaseDate":  "2026-08-27"
+    "version":  "1.8.2",
+    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.2.exe",
+    "notes":  "新增 Lumia 多款视频模型与完整参数适配，优化参考素材上传进度、任务恢复和错误提示。\n新增后台任务完成数字角标，优化快捷创建、工作流悬浮栏、扩图和画布概览交互。\n修复低倍率缩略图黑块、同名错图、图片引用与多图结果同步等保存问题。\n退役旧的交互式公开分享链路，升级后清理本地分享数据并保持媒体中转凭据独立。",
+    "releaseDate":  "2026-08-31"
 }
