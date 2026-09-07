@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.2",
-    "downloadUrl":  "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.2.exe",
-    "notes":  "新增 Lumia 多款视频模型与完整参数适配，优化参考素材上传进度、任务恢复和错误提示。\n新增后台任务完成数字角标，优化快捷创建、工作流悬浮栏、扩图和画布概览交互。\n修复低倍率缩略图黑块、同名错图、图片引用与多图结果同步等保存问题。\n退役旧的交互式公开分享链路，升级后清理本地分享数据并保持媒体中转凭据独立。",
-    "releaseDate":  "2026-08-31"
+  "version": "1.8.3",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.3.exe",
+  "notes": "新增画布内视频轻剪与图片、视频混排作品库，支持封面预览、裁剪、调速和原格式下载。\n优化视频提交状态与原任务恢复，修复保存后预览失效、导航时播放中断及生图结果下载中断后的恢复。\n参数预设升级为标签快调，支持逐项覆盖和无限重试，并保留视频原任务查询与防重复提交保护。\n“问问 AI”统一为 Codex，升级内置运行时，增加参考图排序预览、思考强度滑条与快速模式。\n补充巨轮视频模型和 Comfly Gemini 3.7 Flash，优化供应商配置、素材复用与 MCP 联动设置。",
+  "releaseDate": "2026-09-07"
 }
