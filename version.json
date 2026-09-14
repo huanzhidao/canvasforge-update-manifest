@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.4.exe",
-  "notes": "新增 Comfly GPT Image 2.5 Flare、Sunburst，支持画质、图片格式与透明背景设置，并修正 1K/2K/4K 分辨率路由。\n优化图片生成参数的双行布局、完整模型名称展示和菜单点击外部收起体验。\n修复画布切换与关闭时的保存、异步任务归属和编辑状态问题，提升交互稳定性。\n精简重复运行资源，缩小安装包体积；修复巨轮 Seedance 视频超分时长参数。",
-  "releaseDate": "2026-09-09"
+  "version": "1.8.5",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.5.exe",
+  "notes": "优化模型列表展示与视频适配逻辑，减少无效条目干扰，并修复模型切换后的参数残留问题。\n新增更多图像生成选项，完善尺寸、画质与透明背景能力，修复智能出图可能选错模型的问题。\n优化提示词快捷推荐、设置界面和更新下载进度显示，提升操作效率。\n增强画布保存、异步任务恢复与可关闭的匿名使用统计说明，进一步提升稳定性。",
+  "releaseDate": "2026-09-14"
 }
