@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.6.exe",
-  "notes": "恢复问问 AI 的普通对话与 Codex 双模式，支持历史会话、参考图片、上下文设置和运行状态保留。\n优化聊天、文本模块和分析结果的阅读排版与复制体验，标题、列表、引用、表格和代码显示更清晰。\n优化图片生成后的色彩一致性与结果操作，并修复图片对比预览和画布缩放显示问题。\n修复视频任务重试和模块复制复用问题，提升任务恢复、参数编辑与保存稳定性。",
+  "version": "1.8.7",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.7.exe",
+  "notes": "修复问问 AI 普通对话的画布选图展示，使缩略图提示、输入框附件、预览、排序、删除和取消体验与 Codex 保持一致。",
   "releaseDate": "2026-09-16"
 }
