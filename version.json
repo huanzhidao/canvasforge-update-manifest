@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.7.exe",
-  "notes": "修复问问 AI 普通对话的画布选图展示，使缩略图提示、输入框附件、预览、排序、删除和取消体验与 Codex 保持一致。",
-  "releaseDate": "2026-09-16"
+  "version": "1.8.8",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.8.exe",
+  "notes": "新增画布公告，重要通知会在右上角显示未读提醒，也可查看历史公告。皮肤和氛围效果合并到同一入口。 优化问问 AI 模型选择、常用参数和设置界面，并修复部分界面异常。",
+  "releaseDate": "2026-09-17"
 }
