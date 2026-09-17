@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.8.exe",
-  "notes": "新增画布公告，重要通知会在右上角显示未读提醒，也可查看历史公告。皮肤和氛围效果合并到同一入口。 优化问问 AI 模型选择、常用参数和设置界面，并修复部分界面异常。",
+  "version": "1.8.9",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.8.9.exe",
+  "notes": "彦祖画布 v1.8.9 更新说明\n\n应用名称与图标更新为 YANZO Canvas。新增可配置的桌面任务完成提醒与任务栏提示，切换到其他窗口时也能及时看到完成结果。\n\n选中模块时会突出显示直接关联的上下游模块和连线。优化模型列表顺序、外扩网格显示及供应商设置兼容性，修复部分界面细节。",
   "releaseDate": "2026-09-17"
 }
