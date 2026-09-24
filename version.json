@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.9.3.exe",
-  "notes": "彦祖画布 v1.9.3 更新说明\n\nAI 分层的新任务默认生图模型调整为 GPT Image 2.5 Sunburst。手动选择的模型、历史任务与待确认任务继续沿用原有设置；默认模型未启用或不可用时，沿用已有的可用模型选择规则。\n\n整图分层、保留原图阴影和分析模型的默认设置保持原有行为。\n\n更新前请保存正在编辑的画布，完成更新后重新打开应用。",
+  "version": "1.9.4",
+  "downloadUrl": "https://yanzuai.xyz/canvasforge-updates/CanvasForge%20Setup%201.9.4.exe",
+  "notes": "彦祖画布 v1.9.4 更新说明\n\n修复 AI 分层导出 PSD 的图层顺序：原图参考放在最底层，分层结果中的背景位于主体和文字下方，避免原图、底图遮挡前景。原始智能对象、定位和透明度继续保留。\n\n增强单层 AI 修正的细节参考与验收，按用户提出的修正要求对比新旧结果；未达到要求或无法确认的结果不会替换已接受的图层。\n\n同步已启用供应商的模型目录与参数匹配。\n\n本次修复作用于更新后生成的 PSD，已经保存的旧 PSD 不会自动改写。更新前请保存正在编辑的画布，完成更新后重新打开应用。",
   "releaseDate": "2026-09-24"
 }
